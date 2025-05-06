@@ -1,0 +1,19 @@
+<TexturePaths>
+    <Texture id="player" source="assets/IDLE.png"/>
+    <Texture id="player_run" source="assets/RUN.png"/>
+    <Texture id="player_jump_right" source="assets/JUMP-RIGHT.png"/>
+    <Texture id="player_jump_left" source="assets/JUMP-LEFT.png"/>
+    <Texture id="player_attack" source="assets/ATTACK 1.png"/>
+    <Texture id="enemy_idle" source="assets/dung.png"/>
+    <Texture id="enemy_walk" source="assets/walk.png"/>
+    <Texture id="enemy_walk_left" source="assets/left1.png"/>
+    <Texture id="enemy_attack_left" source="assets/left2.png"/>
+    <Texture id="enemy_attack" source="assets/attack.png"/>
+    <Texture id="enemy_die" source="assets/dead.png"/>
+    <Texture id="bg1" source="assets/BG1.png"/>
+    <Texture id="bg2" source="assets/BG2.png"/>
+    <Texture id="exit_button" source="assets/exit_button.png"/>
+    <Texture id="volume_button" source="assets/volume_button.png"/>
+    <Texture id="play_pause_button" source="assets/play_pause_button.png"/>
+    <Texture id="home_button" source="assets/home_button.png"/>
+</TexturePaths>
